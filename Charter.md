@@ -1,4 +1,4 @@
-# Express Charter
+# Express Charter here
 
 ## Section 0: Guiding Principles
 
@@ -26,7 +26,7 @@ Express is made of many modules spread between three GitHub Orgs:
   Express but can also be used for other web frameworks
 - [jshttp](http://github.com/jshttp/): Low level HTTP libraries
 
-### 1.2: Out-of-Scope
+### 1.2: Out-of-Scope  
 
 Section Intentionally Left Blank
 
